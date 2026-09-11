@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Data Desk — внешние данные для бизнеса: сбор, мониторинг, подготовка, рабочие интерфейсы">
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.035" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1420"/>
+      <stop offset="1" stop-color="#0b0f16"/>
+    </linearGradient>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7da2ff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#7da2ff" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#1554d4" stop-opacity="0"/>
+    </linearGradient>
+    <style>
+      .h1 { font-family: "Segoe UI", system-ui, -apple-system, Roboto, Arial, sans-serif; font-weight: 700; font-size: 46px; fill: #ffffff; letter-spacing: 0.2px; }
+      .sub { font-family: "Segoe UI", system-ui, -apple-system, Roboto, Arial, sans-serif; font-weight: 400; font-size: 19px; fill: #9fb2c9; letter-spacing: 0.3px; }
+      .kick { font-family: "SFMono-Regular", ui-monospace, Consolas, Menlo, monospace; font-size: 13px; fill: #7da2ff; letter-spacing: 3px; }
+      .kick2 { font-family: "SFMono-Regular", ui-monospace, Consolas, Menlo, monospace; font-size: 13px; fill: #6b7688; letter-spacing: 3px; }
+      .val { font-family: "Segoe UI", system-ui, -apple-system, Roboto, Arial, sans-serif; font-weight: 700; font-size: 38px; fill: #ffffff; }
+      .lbl { font-family: "SFMono-Regular", ui-monospace, Consolas, Menlo, monospace; font-size: 12.5px; fill: #8994a3; letter-spacing: 1.2px; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="360" rx="16" fill="url(#panel)"/>
+  <rect width="1200" height="360" rx="16" fill="url(#grid)"/>
+  <rect x="0.5" y="0.5" width="1199" height="359" rx="16" fill="none" stroke="#7da2ff" stroke-opacity="0.18"/>
+
+  <!-- geometric data-network accent (right) -->
+  <g stroke="#7da2ff" fill="none" opacity="0.55">
+    <line x1="915" y1="88" x2="1025" y2="140" stroke-opacity="0.35"/>
+    <line x1="1025" y1="140" x2="1120" y2="92" stroke-opacity="0.35"/>
+    <line x1="1025" y1="140" x2="1058" y2="228" stroke-opacity="0.30"/>
+    <line x1="915" y1="88" x2="1058" y2="228" stroke-opacity="0.18"/>
+    <line x1="1120" y1="92" x2="1058" y2="228" stroke-opacity="0.22"/>
+  </g>
+  <g>
+    <circle cx="915" cy="88" r="5.5" fill="#1554d4"/>
+    <circle cx="1120" cy="92" r="5" fill="#7da2ff"/>
+    <circle cx="1025" cy="140" r="7" fill="#1554d4"/>
+    <circle cx="1025" cy="140" r="12" fill="none" stroke="#7da2ff" stroke-opacity="0.4"/>
+    <circle cx="1058" cy="228" r="4.5" fill="#576374"/>
+  </g>
+  <rect x="980" y="196" width="46" height="6" rx="3" fill="#1b2330"/>
+  <rect x="980" y="196" width="30" height="6" rx="3" fill="#1554d4"/>
+
+  <!-- kicker line -->
+  <rect x="72" y="74" width="26" height="2.5" rx="1.5" fill="#7da2ff"/>
+  <text x="112" y="82" class="kick">DATA DESK</text>
+  <text x="226" y="82" class="kick2">/ PETR SIDOROV</text>
+
+  <!-- headline -->
+  <text x="72" y="150" class="h1">Внешние данные для бизнеса</text>
+  <text x="72" y="188" class="sub">Сбор · мониторинг · подготовка · рабочие интерфейсы</text>
+
+  <!-- metrics band -->
+  <rect x="72" y="226" width="1056" height="104" rx="12" fill="#0b0f16" fill-opacity="0.6" stroke="#7da2ff" stroke-opacity="0.12"/>
+
+  <line x1="336" y1="248" x2="336" y2="308" stroke="#ffffff" stroke-opacity="0.08"/>
+  <line x1="600" y1="248" x2="600" y2="308" stroke="#ffffff" stroke-opacity="0.08"/>
+  <line x1="864" y1="248" x2="864" y2="308" stroke="#ffffff" stroke-opacity="0.08"/>
+
+  <g>
+    <rect x="104" y="250" width="18" height="3" rx="1.5" fill="#1554d4"/>
+    <text x="104" y="292" class="val">8</text>
+    <text x="104" y="314" class="lbl">источников</text>
+
+    <rect x="368" y="250" width="18" height="3" rx="1.5" fill="#1554d4"/>
+    <text x="368" y="292" class="val">4 312</text>
+    <text x="368" y="314" class="lbl">отзывов</text>
+
+    <rect x="632" y="250" width="18" height="3" rx="1.5" fill="#1554d4"/>
+    <text x="632" y="292" class="val">1 310</text>
+    <text x="632" y="314" class="lbl">карточек</text>
+
+    <rect x="896" y="250" width="18" height="3" rx="1.5" fill="#1554d4"/>
+    <text x="896" y="292" class="val">72</text>
+    <text x="896" y="314" class="lbl">исторических срезов</text>
+  </g>
+
+  <rect x="72" y="338" width="1056" height="1.5" fill="url(#fade)" opacity="0.5"/>
+</svg>

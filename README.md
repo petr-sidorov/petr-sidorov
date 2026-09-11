@@ -1,14 +1,12 @@
+<p align="center">
+  <img src="./assets/profile-hero.svg" width="100%" alt="Пётр Сидоров — автоматизация сбора и обработки внешних данных для бизнеса">
+</p>
+
 # Пётр Сидоров
 
 **Автоматизация сбора и обработки внешних данных для бизнеса**
 
-Работаю с сайтами, маркетплейсами, интернет-магазинами, картами и другими публичными источниками.
-
-Результат — готовые данные, регулярный мониторинг или рабочий интерфейс вокруг данных.
-
 <kbd>Сбор данных</kbd> · <kbd>Мониторинг</kbd> · <kbd>Excel / Google Sheets</kbd> · <kbd>Карты</kbd> · <kbd>Веб-интерфейсы</kbd>
-
-**8 источников · 4 312 отзывов · 1 310 карточек организаций · 72 исторических среза**
 
 [Data Desk ↗](https://datadesk.tech/) · [Telegram ↗](https://t.me/persconnect) · [MAX ↗](https://web.max.ru/8638275) · [Email ↗](mailto:persconnect@gmail.com)
 
@@ -57,6 +55,8 @@
 <tr>
 <td width="50%" valign="top">
 
+<sub>DATA CASE</sub>
+
 ### Multi-source data pipeline
 
 Единый контур сбора, нормализации и подготовки данных из нескольких источников.
@@ -67,6 +67,8 @@
 
 </td>
 <td width="50%" valign="top">
+
+<sub>DATA CASE</sub>
 
 ### Мониторинг ассортимента и отзывов M.Video
 
@@ -81,6 +83,8 @@
 <tr>
 <td width="50%" valign="top">
 
+<sub>DATA CASE</sub>
+
 ### Актуализация данных по Яндекс Картам
 
 Сбор, проверка и нормализация данных по карточкам организаций.
@@ -91,6 +95,8 @@
 
 </td>
 <td width="50%" valign="top">
+
+<sub>DATA CASE</sub>
 
 ### Мониторинг лотов Telderi
 
@@ -106,41 +112,29 @@
 
 ## Дополнительные инженерные работы
 
-### Kanban Tracker
-
-Внутренний веб-инструмент с пользователями, ролями, рабочими досками, задачами и статусами.
-
-Django · PostgreSQL · роли Manager / Member · production deployment
-
+**Kanban Tracker** — внутренний веб-инструмент с пользователями, ролями, рабочими досками, задачами и статусами. Django · PostgreSQL · роли Manager / Member · production deployment.
 [Репозиторий →](https://github.com/petr-sidorov/tracker-kanban) · [Live →](https://web-production-a867b.up.railway.app/)
 
-### API / reliability
-
-Проверка API-сценариев и обработки ошибок.
-
-Результат: **18 API-эндпоинтов**
-
+**API / reliability** — проверка API-сценариев и обработки ошибок. Результат: **18 API-эндпоинтов**.
 [Репозиторий →](https://github.com/petr-sidorov/playrix-viki-bot)
 
 ## Data Desk
 
+<table>
+<tr>
+<td width="100%">
+
 **Сбор, актуализация и мониторинг внешних данных для бизнеса с подготовкой результата в удобном рабочем формате.**
 
-- сбор;
-- актуализация;
-- мониторинг;
-- подготовка результата;
-- при необходимости — интерфейс вокруг данных.
+Сбор · актуализация · мониторинг · подготовка результата · при необходимости — интерфейс вокруг данных.
 
-Основной сайт: https://datadesk.tech/
+**[datadesk.tech →](https://datadesk.tech/)**
 
-## Есть задача по внешним данным?
+</td>
+</tr>
+</table>
 
-Пришлите источник, объём и пример результата — оценю способ решения.
-
-Контакты:
-
-- **Telegram:** https://t.me/persconnect
-- **MAX:** https://web.max.ru/8638275
-- **Email:** persconnect@gmail.com
-- **Data Desk:** https://datadesk.tech/
+> **Есть задача по внешним данным?**
+> Пришлите источник, объём и пример результата — оценю способ решения.
+>
+> [Telegram ↗](https://t.me/persconnect) · [MAX ↗](https://web.max.ru/8638275) · [Email ↗](mailto:persconnect@gmail.com)
