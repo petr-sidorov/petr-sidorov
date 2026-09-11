@@ -6,11 +6,13 @@
 
 Результат — готовые данные, регулярный мониторинг или рабочий интерфейс вокруг данных.
 
-`Сбор данных` · `Мониторинг` · `Excel / Google Sheets` · `Карты` · `Веб-интерфейсы`
+<kbd>Сбор данных</kbd> · <kbd>Мониторинг</kbd> · <kbd>Excel / Google Sheets</kbd> · <kbd>Карты</kbd> · <kbd>Веб-интерфейсы</kbd>
 
 **8 источников · 4 312 отзывов · 1 310 карточек организаций · 72 исторических среза**
 
-[Data Desk](https://datadesk.tech/) · [Telegram](https://t.me/persconnect)
+[Data Desk ↗](https://datadesk.tech/) · [Telegram ↗](https://t.me/persconnect) · [MAX ↗](https://web.max.ru/8638275) · [Email ↗](mailto:persconnect@gmail.com)
+
+---
 
 ## Что могу сделать для бизнеса
 
