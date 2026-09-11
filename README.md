@@ -49,73 +49,70 @@
 </tr>
 </table>
 
-## Основные кейсы по работе с данными
+## Работа с данными: кейсы
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<sub>DATA CASE</sub>
+**01 / MULTI-SOURCE**
 
 ### Multi-source data pipeline
 
 Единый контур сбора, нормализации и подготовки данных из нескольких источников.
 
-Результат: **8 активных источников**
+**Результат:** 8 активных источников
 
 [Репозиторий →](https://github.com/petr-sidorov/multi-source-data-case-study)
 
-</td>
-<td width="50%" valign="top">
+---
 
-<sub>DATA CASE</sub>
+**02 / RETAIL MONITORING**
 
 ### Мониторинг ассортимента и отзывов M.Video
 
 Регулярный сбор ассортимента, продавцов, рейтингов и отзывов.
 
-Результат: **4 312 отзывов в накопительной базе**
+**Результат:** 4 312 отзывов в накопительной базе
 
 [Репозиторий →](https://github.com/petr-sidorov/retail-monitoring-case-study)
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+---
 
-<sub>DATA CASE</sub>
+**03 / MAPS**
 
 ### Актуализация данных по Яндекс Картам
 
 Сбор, проверка и нормализация данных по карточкам организаций.
 
-Результат: **1 310 карточек организаций**
+**Результат:** 1 310 карточек организаций
 
 [Репозиторий →](https://github.com/petr-sidorov/yandex-maps-ratings-case-study)
 
-</td>
-<td width="50%" valign="top">
+---
 
-<sub>DATA CASE</sub>
+**04 / MARKET MONITORING**
 
 ### Мониторинг лотов Telderi
 
 Отслеживание изменений каталога с сохранением исторических срезов.
 
-Результат: **72 сохранённых среза примерно за 17 месяцев**
+**Результат:** 72 сохранённых среза примерно за 17 месяцев
 
 [Репозиторий →](https://github.com/petr-sidorov/telderi-lot-monitor)
 
-</td>
-</tr>
-</table>
+## Веб-инструменты и API
 
-## Дополнительные инженерные работы
+### Kanban Tracker
 
-**Kanban Tracker** — внутренний веб-инструмент с пользователями, ролями, рабочими досками, задачами и статусами. Django · PostgreSQL · роли Manager / Member · production deployment.
+Внутренний веб-инструмент с пользователями, ролями, рабочими досками, задачами и статусами.
+
+`Django · PostgreSQL · Manager / Member · production`
+
 [Репозиторий →](https://github.com/petr-sidorov/tracker-kanban) · [Live →](https://web-production-a867b.up.railway.app/)
 
-**API / reliability** — проверка API-сценариев и обработки ошибок. Результат: **18 API-эндпоинтов**.
+### API / reliability
+
+Проверка API-сценариев и обработки ошибок.
+
+**Результат:** 18 API-эндпоинтов
+
 [Репозиторий →](https://github.com/petr-sidorov/playrix-viki-bot)
 
 ## Data Desk

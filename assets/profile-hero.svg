@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Data Desk — внешние данные для бизнеса: сбор, мониторинг, подготовка, рабочие интерфейсы">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Data Desk — сбор, мониторинг и обработка внешних данных для бизнеса">
   <defs>
     <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
       <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.035" stroke-width="1"/>
@@ -50,8 +50,9 @@
   <text x="226" y="82" class="kick2">/ PETR SIDOROV</text>
 
   <!-- headline -->
-  <text x="72" y="150" class="h1">Внешние данные для бизнеса</text>
-  <text x="72" y="188" class="sub">Сбор · мониторинг · подготовка · рабочие интерфейсы</text>
+  <text x="72" y="130" class="h1">Сбор, мониторинг и</text>
+  <text x="72" y="178" class="h1">обработка внешних данных</text>
+  <text x="72" y="208" class="sub">Excel / Google Sheets · карты · веб-интерфейсы</text>
 
   <!-- metrics band -->
   <rect x="72" y="226" width="1056" height="104" rx="12" fill="#0b0f16" fill-opacity="0.6" stroke="#7da2ff" stroke-opacity="0.12"/>
